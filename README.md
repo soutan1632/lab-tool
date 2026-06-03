@@ -86,7 +86,7 @@ LSV マクロ単体で使用する場合は、CVグラフ化マクロの `CalcNi
  
 ```bash
 pip install streamlit
-streamlit run app.py
+streamlit run モル計算アプリ.py
 ```
  
 ブラウザが自動で開き、計算機が表示されます。
